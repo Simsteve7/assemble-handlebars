@@ -19,7 +19,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/Simsteve7/assemble-handlebars.git"
+    "url": "git://github.com/assemble/assemble-handlebars.git"
   },
   "bugs": {
     "url": "https://github.com/assemble/assemble-handlebars/issues"
